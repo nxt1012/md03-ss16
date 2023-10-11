@@ -1,0 +1,11 @@
+Viết
+chương trình
+đọc nội dung
+text
+từ file
+và
+hiển thị
+số lượng từ
+trong
+file
+đó
